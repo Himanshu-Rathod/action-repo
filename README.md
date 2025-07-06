@@ -2,3 +2,4 @@
 "# Fix theme bug" 
 "New update" 
 "New update" 
+"New update" 
